@@ -1,2 +1,2 @@
-# manel-art
-files to import into website
+# manelcolldecarreraart
+Art Gallery for oil paintings by Manel Colldecarrera i Ferrés
